@@ -1,7 +1,7 @@
 {
-  "name": "gatsby-starter-hello-world",
+  "name": "gatsby-tailwind-starter",
   "private": true,
-  "description": "A simplified bare-bones starter for Gatsby",
+  "description": "A simply Gatsby starter with Taildindcss",
   "version": "0.1.0",
   "license": "0BSD",
   "scripts": {
