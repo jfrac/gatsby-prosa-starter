@@ -9,7 +9,7 @@
 </h1>
 
 
-A Gatsby starter focused on creating text using [Tailwind CSS](https://tailwindcss.com/) and 
+A [Gatsby](https://www.gatsbyjs.com/) starter focused on creating text using [Tailwind CSS](https://tailwindcss.com/) and 
 [tailwindcss-typography](https://github.com/tailwindlabs/tailwindcss-typography).
 
 ## 🚀 Quick start
