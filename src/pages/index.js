@@ -7,7 +7,7 @@ export default function Home() {
 
         <div className=" space-y-10 mb-10 sm:space-y-0 sm:flex sm:items-center sm:justify-between">
           <p className="md:font-bold text-2xl">Gatsby <span className="text-indigo-500">PROSA</span> Starter</p>
-          <a href=""><span>View on GitHub</span></a>
+          <a href="https://github.com/jfrac/gatsby-prosa-starter"><span>View on GitHub</span></a>
         </div>
 
         <article className="prose prose-sm sm:prose lg:prose-lg xl:prose-xl">
