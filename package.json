@@ -20,7 +20,7 @@
   },
   "devDependencies": {
     "@tailwindcss/typography": "^0.4.1",
-    "autoprefixer": "^10.4.0",
+    "autoprefixer": "^10.4.12",
     "gatsby-plugin-postcss": "^4.14.0",
     "postcss": "^8.3.9",
     "prettier": "2.4.1",
